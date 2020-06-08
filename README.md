@@ -17,3 +17,4 @@ Oscar Oweson
 
 Website: [http://www.panomicron.com](http://www.panomicron.com)
 
+Facebook Group: [https://www.facebook.com/groups/Oxygencamera](https://www.facebook.com/groups/Oxygencamera)
