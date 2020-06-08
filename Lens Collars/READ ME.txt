@@ -1,0 +1,2 @@
+For the Bronica 50mm f/2.8 lens there are two different skews, MC and PE, of the MC there are also two different versions. 
+Version 1 of the MC resembles the PE more, the front group has a number of step downs, whereas version 2 only has 3 step downs.
